@@ -19,3 +19,4 @@ events.TICK:register(function()
 		models.player_model.all.Head.blink:setVisible(true)
 	end
 end)
+vanilla_model.ARMOR:setVisible(false)
